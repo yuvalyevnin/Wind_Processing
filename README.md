@@ -2,7 +2,7 @@
 
 This repository is the code for a paper by the same name, currently under review at Geophysical Research Letters journal. Pre-print available at: https://www.essoar.org/doi/abs/10.1002/essoar.10506907.1
 If you are this work for publication, please cite:
->Yevnin, Y. and Toledo, Y., 2021. A Hybrid Deep Learning Model for Improved Wind and Wave Forecasts. [pre-print](https://www.essoar.org/doi/abs/10.1002/essoar.10506907.1)
+>Yevnin, Y. and Toledo, Y., 2021. A Hybrid Deep Learning Model for Improved Wind and Wave Forecasts.
 
 ## Description
 
